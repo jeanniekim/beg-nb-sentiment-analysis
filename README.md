@@ -4,7 +4,7 @@
 Python notebook project for building, training, and testing a **Naive-Bayes sentiment analysis model** from scratch. Structured + written for **programming beginners**.
 
 Features:
-- Not object-based to be more beginner-friendly
+- Not object-oriented to be more beginner-friendly
 - Detailed instructions and hints.
 
 Files:
