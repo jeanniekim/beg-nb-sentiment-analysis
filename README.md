@@ -1,6 +1,7 @@
 # beg-nb-sentiment-analysis
 ## Naive-Bayes sentiment analysis model project for beginners
 
+Original Google Colab notebooks: [starter](https://colab.research.google.com/drive/1_RPeKNeZ1LuqWfzgUCtXSfW4hRCtRgD6?usp=sharing) [solution](https://colab.research.google.com/drive/1eYp9Q7oMEZDW4Yq_xsGc35AyTflLGoO4?usp=sharing)
 Python notebook project for building, training, and testing a **Naive-Bayes sentiment analysis model** from scratch. Structured + written for **programming beginners**.
 
 Features:
