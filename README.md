@@ -11,4 +11,4 @@ Inspired by the process illustrated [here](https://web.stanford.edu/~jurafsky/sl
 
 Files:
 - `solution.ipynb` contains one possible solution code for this model -- a completed model with `~94%` accuracy -- along with the write-up. 
-- `starter.ipynb` contains the write-up only -- as it could be distributed to students.
+- `starter.ipynb` contains the write-up only, as it could be distributed to students.
