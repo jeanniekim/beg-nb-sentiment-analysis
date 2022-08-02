@@ -1,6 +1,7 @@
-# nb-sentiment-analysis
+# beg-nb-sentiment-analysis
+## Naive-Bayes sentiment analysis model project for beginners
 
-Python notebook project for building, training, and testing a **Naive-Bayes sentiment analysis model** from scratch. Structured + written for programming beginners.
+Python notebook project for building, training, and testing a **Naive-Bayes sentiment analysis model** from scratch. Structured + written for **programming beginners**.
 
 Features:
 - Not object-based to be more beginner-friendly
