@@ -1,4 +1,4 @@
-# sentiment-analysis
+# nb-sentiment-analysis
 
 Python notebook project for building, training, and testing a **Naive-Bayes sentiment analysis model** from scratch. Structured + written for programming beginners.
 
